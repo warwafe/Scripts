@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-
-
-#This script is from the coursera course and will take a syslog file and convert it to a csv. This is useful for generating reports. 
-
 import re, operator, os, csv
 
 error_msg = {}
